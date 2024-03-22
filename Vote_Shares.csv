@@ -1,0 +1,154 @@
+,state,candidate,vote_share
+0,Delaware,Joe Biden,58.78216702049562
+1,Delaware,Donald Trump,39.80139282950736
+2,Delaware,Jo Jorgensen,0.9920438086545903
+3,District of Columbia,Joe Biden,92.14969392140692
+4,District of Columbia,Donald Trump,5.397321376714795
+5,District of Columbia,Jo Jorgensen,0.5912485915738364
+6,Florida,Joe Biden,47.86145072544223
+7,Florida,Donald Trump,51.21981962250403
+8,Florida,Jo Jorgensen,0.6354125103366122
+9,Georgia,Joe Biden,49.49526943907977
+10,Georgia,Donald Trump,49.25958177695571
+11,Georgia,Jo Jorgensen,1.245148783964515
+12,Hawaii,Joe Biden,63.73363923901899
+13,Hawaii,Donald Trump,34.26886394217965
+14,Hawaii,Jo Jorgensen,0.9641947607268626
+15,Idaho,Joe Biden,33.062897848880205
+16,Idaho,Donald Trump,63.83079946458151
+17,Idaho,Jo Jorgensen,1.8896309897639227
+18,Illinois,Joe Biden,58.94466648954799
+19,Illinois,Donald Trump,39.136935882899884
+20,Illinois,Jo Jorgensen,1.05497871873346
+21,Indiana,Joe Biden,40.96320121535093
+22,Indiana,Donald Trump,57.03063235568532
+23,Indiana,Jo Jorgensen,1.9418448779143334
+24,Iowa,Joe Biden,44.89171557144218
+25,Iowa,Donald Trump,53.089324969202266
+26,Iowa,Jo Jorgensen,1.1613541186761143
+27,Kansas,Joe Biden,41.3961663259401
+28,Kansas,Donald Trump,56.17357270887625
+29,Kansas,Jo Jorgensen,2.2078933465326287
+30,Kentucky,Joe Biden,36.15151481115404
+31,Kentucky,Donald Trump,62.08657186929044
+32,Kentucky,Jo Jorgensen,1.2277420852427592
+33,Louisiana,Joe Biden,39.85145680152621
+34,Louisiana,Donald Trump,58.46088241400853
+35,Louisiana,Jo Jorgensen,1.0076524793046011
+36,Maine,Joe Biden,52.90055791776243
+37,Maine,Donald Trump,44.22776316759653
+38,Maine,Jo Jorgensen,1.7210656966598668
+39,Maryland,Joe Biden,65.36066486007711
+40,Maryland,Donald Trump,32.15029156774876
+41,Maryland,Jo Jorgensen,1.1026562134717142
+42,Massachusetts,Joe Biden,65.6000630059685
+43,Massachusetts,Donald Trump,32.14191103050557
+44,Massachusetts,Jo Jorgensen,1.2946239496480973
+45,Michigan,Joe Biden,50.62081829082437
+46,Michigan,Donald Trump,47.83729069113762
+47,Michigan,Jo Jorgensen,1.0900470853547974
+48,Minnesota,Joe Biden,52.39509930974001
+49,Minnesota,Donald Trump,45.28494240916937
+50,Minnesota,Jo Jorgensen,1.0672619768696843
+51,Mississippi,Joe Biden,41.01318296631189
+52,Mississippi,Donald Trump,57.540629357761894
+53,Mississippi,Jo Jorgensen,0.6102577437951553
+54,Missouri,Joe Biden,41.40878173618836
+55,Missouri,Donald Trump,56.79965577888949
+56,Missouri,Jo Jorgensen,1.3617157122263928
+57,Montana,Joe Biden,40.41040033016921
+58,Montana,Donald Trump,56.72340074288073
+59,Montana,Jo Jorgensen,2.5178704085843995
+60,Nebraska,Joe Biden,39.166794753962606
+61,Nebraska,Donald Trump,58.224406851258756
+62,Nebraska,Jo Jorgensen,2.120811937526859
+63,Nevada,Joe Biden,50.056781957284024
+64,Nevada,Donald Trump,47.66624732455941
+65,Nevada,Jo Jorgensen,1.0518893164533905
+66,New Hampshire,Joe Biden,52.82261974317218
+67,New Hampshire,Donald Trump,45.45504270104298
+68,New Hampshire,Jo Jorgensen,1.645264348669244
+69,New Jersey,Joe Biden,57.14726720847354
+70,New Jersey,Donald Trump,41.26155670370976
+71,New Jersey,Jo Jorgensen,0.6940266428057807
+72,New Mexico,Joe Biden,54.289285849572224
+73,New Mexico,Donald Trump,43.49666924612946
+74,New Mexico,Jo Jorgensen,1.362064580368304
+75,New York,Joe Biden,60.88091942621541
+76,New York,Donald Trump,37.73393675496712
+77,New York,Jo Jorgensen,0.7008611784275605
+78,North Carolina,Joe Biden,48.586220571564475
+79,North Carolina,Donald Trump,49.93434152650928
+80,North Carolina,Jo Jorgensen,0.8810815086371437
+81,North Dakota,Joe Biden,31.756762359080092
+82,North Dakota,Donald Trump,65.11404873707572
+83,North Dakota,Jo Jorgensen,2.5960494059184285
+84,Ohio,Joe Biden,45.239338340705025
+85,Ohio,Donald Trump,53.27130010087464
+86,Ohio,Jo Jorgensen,1.1409438583824059
+87,Oklahoma,Joe Biden,32.28617433598664
+88,Oklahoma,Donald Trump,65.37327184806296
+89,Oklahoma,Jo Jorgensen,1.5846104854299259
+90,Oregon,Joe Biden,56.45331865404888
+91,Oregon,Donald Trump,40.367246046343354
+92,Oregon,Jo Jorgensen,1.7513217463013635
+93,Pennsylvania,Joe Biden,49.960947286417614
+94,Pennsylvania,Donald Trump,48.7817849306632
+95,Pennsylvania,Jo Jorgensen,1.146484858680294
+96,Rhode Island,Joe Biden,59.29900868154064
+97,Rhode Island,Donald Trump,38.6993762381798
+98,Rhode Island,Jo Jorgensen,0.9773753202564763
+99,South Carolina,Joe Biden,43.430088142061784
+100,South Carolina,Donald Trump,55.11029395674024
+101,South Carolina,Jo Jorgensen,1.1107180954025517
+102,South Dakota,Joe Biden,35.60525213613529
+103,South Dakota,Donald Trump,61.76938967225024
+104,South Dakota,Jo Jorgensen,2.625358191614471
+105,Tennessee,Joe Biden,37.44967317436964
+106,Tennessee,Donald Trump,60.66221557854652
+107,Tennessee,Jo Jorgensen,0.9783161686856325
+108,Texas,Joe Biden,46.467285349743435
+109,Texas,Donald Trump,52.04447181109659
+110,Texas,Jo Jorgensen,1.1154266896072957
+111,Utah,Joe Biden,37.64604858330606
+112,Utah,Donald Trump,58.129839029919594
+113,Utah,Jo Jorgensen,2.5833020334088337
+114,Vermont,Joe Biden,66.08641693066397
+115,Vermont,Donald Trump,30.67376465593259
+116,Vermont,Jo Jorgensen,0.9819610916968766
+117,Virginia,Joe Biden,54.109517177802424
+118,Virginia,Donald Trump,43.99550366728214
+119,Virginia,Jo Jorgensen,1.451869780321774
+120,Washington,Joe Biden,57.97030113530306
+121,Washington,Donald Trump,38.766977743343276
+122,Washington,Jo Jorgensen,1.9693558444977055
+123,West Virginia,Joe Biden,29.696521244519612
+124,West Virginia,Donald Trump,68.63155192461606
+125,West Virginia,Jo Jorgensen,1.344865425368589
+126,Wisconsin,Joe Biden,49.45401643500603
+127,Wisconsin,Donald Trump,48.8290300823206
+128,Wisconsin,Jo Jorgensen,1.1673306337934197
+129,Wyoming,Joe Biden,26.553574332014524
+130,Wyoming,Donald Trump,69.9362274854118
+131,Wyoming,Jo Jorgensen,2.084078550394739
+132,Alabama,Joe Biden,36.570676932506466
+133,Alabama,Donald Trump,62.03096968799606
+134,Alabama,Jo Jorgensen,1.0836291763798453
+135,Alaska,Joe Biden,39.199327449367054
+136,Alaska,Donald Trump,48.52279057407001
+137,Alaska,Jo Jorgensen,2.2731802548128766
+138,Arkansas,Joe Biden,34.77506195301496
+139,Arkansas,Donald Trump,62.39572985614432
+140,Arkansas,Jo Jorgensen,1.0772975114616155
+141,California,Joe Biden,63.499220903450215
+142,California,Donald Trump,34.32780788831399
+143,California,Jo Jorgensen,1.0738797979367287
+144,Colorado,Joe Biden,55.40000116673468
+145,Colorado,Donald Trump,41.89827117554352
+146,Colorado,Jo Jorgensen,1.6107079224047753
+147,Connecticut,Joe Biden,59.23871335540597
+148,Connecticut,Donald Trump,39.20949634924463
+149,Connecticut,Jo Jorgensen,1.1087661981713335
+150,Arizona,Joe Biden,49.364690614366616
+151,Arizona,Donald Trump,49.05598103046474
+152,Arizona,Jo Jorgensen,1.5193400339973182
